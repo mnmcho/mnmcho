@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hi there, I'm [Michael](https://www.linkedin.com/in/mcho295/) 👋
 
-<!--
-**mnmcho/mnmcho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Passionate in enabling and empowering builders!
 
-Here are some ideas to get you started:
+##### Experiences
+- Solutions Architect at [Amazon Web Services](https://aws.amazon.com/)
+- Data Engineer Intern at [Tesla](https://www.tesla.com/)
+- Data Scientist Intern at [Cox Communications](https://www.cox.com/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##### Interests
+- Sci-fi
+- Football (and [Football Manager](https://en.wikipedia.org/wiki/Football_Manager)!)
+- Startup and VC ecosystem
+- Artificial Intelligence
+
+##### Inspirations
+- [Guide to Career Planning: Skills and education](https://pmarchive.com/guide_to_career_planning_part2.html) by Marc Andreessen
+- [How to sell a B2B product](https://calv.info/how-to-sell-b2b) by Calvin French-Owen
+- [Structured Procrastination](https://www.structuredprocrastination.com/) by John Perry
